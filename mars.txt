@@ -9,3 +9,4 @@ Conflict example
 
 This is a collaboration example
 
+this a test on how to add text to this file from the web interface
